@@ -33,7 +33,7 @@ minikube dashboard
 
 每一次启动时，都会在Virtual Box中 重新新建一个虚拟机，如下图所示
 
-![1](C:\Users\zhangzhongjun\Documents\imgs\1.PNG)
+![1](imgs/1.PNG)
 
 # 参考资料
 
